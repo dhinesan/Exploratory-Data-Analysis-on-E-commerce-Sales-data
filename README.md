@@ -6,6 +6,8 @@ Objective: The objective of this analysis is to gain insights into e-commerce sa
 Methodology:
   Data Cleaning and Preparation: Clean the dataset to handle missing values, inconsistencies, and outliers. Convert date columns to datetime format for easier analysis. Explore the distribution of numerical variables and check for any anomalies.
 
+#The intended outcomes of this analysis in this project are included below: 
+
 Exploratory Data Analysis (EDA):
 1. Explore the distribution of sales, profit, and other relevant numerical variables.
 2. Analyze sales trends over time (e.g., monthly, quarterly).
