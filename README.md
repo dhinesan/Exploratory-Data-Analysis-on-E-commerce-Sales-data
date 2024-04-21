@@ -4,7 +4,7 @@ Analysis Title: "E-commerce Sales and Profitability Analysis with EDA"
 Objective: The objective of this analysis is to gain insights into e-commerce sales patterns and profitability drivers using the provided dataset.
 
 Methodology:
-  Data Cleaning and Preparation: Clean the dataset to handle missing values, inconsistencies, and outliers. Convert date columns to datetime format for easier analysis. Explore the distribution of numerical variables and check for any anomalies.
+  Data Cleaning and Preparation, clean the dataset to handle missing values, inconsistencies, and outliers. Convert date columns to datetime format for easier analysis. Explore the distribution of numerical variables and check for any anomalies.
 
 #The intended outcomes of this analysis in this project are included below: 
 
@@ -22,13 +22,16 @@ Customer Segmentation:
 2. Analyze profitability by customer segment to identify high-value customer groups.
 3. Explore geographical variations in customer behavior and profitability.
 
+Actionable Insights and Recommendations:
+1. Summarize key findings and insights from the analysis. #
+2. Provide actionable recommendations to improve sales, profitability, and overall business performance.
+
+
+#Feature Works(In progress)
+
 Predictive Modeling (Optional):
 1. Build predictive models to forecast future sales and profitability.
 2. Utilize regression analysis to understand the factors influencing sales and profit.
 3. Employ clustering techniques to identify distinct customer segments and their characteristics.
-
-Actionable Insights and Recommendations:
-1. Summarize key findings and insights from the analysis.
-2. Provide actionable recommendations to improve sales, profitability, and overall business performance.
-3. Suggest strategies for optimizing pricing, discounting, shipping methods, and customer targeting based on the analysis results.
+4. Suggest strategies for optimizing pricing, discounting, shipping methods, and customer targeting based on the analysis results.
 
