@@ -3,9 +3,6 @@ Analysis Title: "E-commerce Sales and Profitability Analysis with EDA"
 
 Objective: The objective of this analysis is to gain insights into e-commerce sales patterns and profitability drivers using the provided dataset.
 
-Methodology:
-  Data Cleaning and Preparation, clean the dataset to handle missing values, inconsistencies, and outliers. Convert date columns to datetime format for easier analysis. Explore the distribution of numerical variables and check for any anomalies.
-
 #The intended outcomes of this analysis in this project are included below: 
 
 Exploratory Data Analysis (EDA):
